@@ -1,6 +1,6 @@
 # 📚 Guia Prático de Princípios SOLID em .NET
 
-Bem-vindos, jovens desenvolvedores! 👋
+Bem-vindos! 👋
 
 Este repositório foi criado para ajudá-los a entender, de forma **prática e visual**, os 5 princípios SOLID que vão transformar a qualidade do código de vocês.
 
